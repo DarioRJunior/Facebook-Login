@@ -16,6 +16,14 @@ Projeto: 🚀Concluido
  
  Réplica da página de Login do Facebook, para aprofundar meus estudos.
 
+## Pré-Visualização
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
+
+![image](https://user-images.githubusercontent.com/62716267/134775315-f2dfe6b3-4620-4601-89cd-ea56016f9bd7.png)
+
 
 ## 🛠 Tecnologias
 
