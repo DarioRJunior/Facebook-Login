@@ -7,7 +7,7 @@ Projeto: 🚀Concluido
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
  <a href="#-tecnologias">Tecnologias</a> •  
- <a href="#-Pré-requisitos">Pré-requisitos</a> • 
+ <a href="#-Pré-equisitos">Pré-requisitos</a> • 
  <a href="#-licenca">Licença</a> • 
  <a href="#-autor">Autor</a>
 </p>
@@ -35,7 +35,7 @@ Tem duas formas de rodar o site:
      - vá na pasta C:\xampp\htdocs;
      - Copie a pasta Facebook-Login;
      - Abra seu navegador e digite: http://localhost/;
-     - e Selecione a pasta Facebook-Login e o Site rodará normalmente com as funcionalidades PHP;
+     - Selecione a pasta Facebook-Login e o Site rodará normalmente com as funcionalidades PHP;
 
 ## 🦸 Autor
 
