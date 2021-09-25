@@ -7,7 +7,7 @@ Projeto: 🚀Concluido
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
  <a href="#-tecnologias">Tecnologias</a> •  
- <a href="#-Pré-equisitos">Pré-requisitos</a> • 
+ <a href="#-Pré-requisitos">Pré-requisitos</a> • 
  <a href="#-licenca">Licença</a> • 
  <a href="#-autor">Autor</a>
 </p>
