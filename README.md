@@ -20,10 +20,10 @@ Projeto: 🚀Concluido
 ## Pré-Visualização
 
 <h1 align="center">Desktop Version</h1>
-![image](https://user-images.githubusercontent.com/62716267/134775315-f2dfe6b3-4620-4601-89cd-ea56016f9bd7.png)
+![image](https://user-images.githubusercontent.com/62716267/134775315-f2dfe6b3-4620-4601-89cd-ea56016f9bd7.png);
 
 <h1 align="center">Mobile Version</h1>
-![image](https://user-images.githubusercontent.com/62716267/134775400-3849cf7b-4c51-4acd-80a4-4a9758cd1c12.png)
+![image](https://user-images.githubusercontent.com/62716267/134775400-3849cf7b-4c51-4acd-80a4-4a9758cd1c12.png);
 
 
 ## 🛠 Tecnologias
