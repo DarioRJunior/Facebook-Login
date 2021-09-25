@@ -19,11 +19,11 @@ Projeto: 🚀Concluido
 
 ## Pré-Visualização
 
-<div align="center"> 
+<div align="center" width="30%"> 
 <h1 align="center">Versão Desktop</h1>
 <img src="https://user-images.githubusercontent.com/62716267/134775315-f2dfe6b3-4620-4601-89cd-ea56016f9bd7.png"/>
 </div>
-<div align="center"> 
+<div align="center" width="30%"> 
 <h1 align="center">Versão Mobile</h1>
 <img src="https://user-images.githubusercontent.com/62716267/134775400-3849cf7b-4c51-4acd-80a4-4a9758cd1c12.png"/>
 </div>
